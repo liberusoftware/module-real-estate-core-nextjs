@@ -1,0 +1,15 @@
+{
+  "repository": "module-real-estate-core-nextjs",
+  "capabilityKey": "liberusoftware/real-estate-core",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-real-estate-core-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/real-estate/nextjs/core.md",
+  "presentationPlan": "projects/real-estate/nextjs/core.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "real-estate"
+  ]
+}
